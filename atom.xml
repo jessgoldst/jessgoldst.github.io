@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sale</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://sale.imbold.info/"/>
+  <updated>2016-10-11T19:49:53.576Z</updated>
+  <id>http://sale.imbold.info/</id>
+  
+  <author>
+    <name>imBOLD</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Toţi copiii merită o diplomă de elev minunat</title>
+    <link href="http://sale.imbold.info/toti-copiii-merita-o-diploma-de-elev-minunat/"/>
+    <id>http://sale.imbold.info/toti-copiii-merita-o-diploma-de-elev-minunat/</id>
+    <published>2016-09-17T18:14:13.000Z</published>
+    <updated>2016-10-11T19:49:53.576Z</updated>
+    
+    <summary type="html">
+    
+      Ce-ar fi să le dăm, anul acesta, un premiu copiilor noştri chiar la început de an şcolar.  Şi o diplomă în care să nu scrie note, medii sau calificative, ci doar atât - Diplomă de elev minunat.
+    
+    </summary>
+    
+      <category term="Elev" scheme="http://sale.imbold.info/categories/elev/"/>
+    
+    
+      <category term="Diplomă" scheme="http://sale.imbold.info/tags/diploma/"/>
+    
+  </entry>
+  
+</feed>

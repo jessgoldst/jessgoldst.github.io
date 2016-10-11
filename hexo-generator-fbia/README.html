@@ -1,0 +1,36 @@
+<h1 id="hexo-generator-fbia"><a href="#hexo-generator-fbia" class="headerlink" title="hexo-generator-fbia"></a>hexo-generator-fbia</h1><p><a href="https://travis-ci.org/hexojs/hexo-generator-feed"><img src="https://travis-ci.org/hexojs/hexo-generator-feed.svg?branch=master" alt="Build Status"></a>  <a href="http://badge.fury.io/js/hexo-generator-feed"><img src="https://badge.fury.io/js/hexo-generator-feed.svg" alt="NPM version"></a> <a href="https://coveralls.io/r/hexojs/hexo-generator-feed?branch=master"><img src="https://img.shields.io/coveralls/hexojs/hexo-generator-feed.svg" alt="Coverage Status"></a></p>
+<p>Generate Facebook Instant Articles Feed feed.</p>
+<h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2><pre><code class="bash">$ npm install hexo-generator-fbia --save
+</code></pre>
+<ul>
+<li>Hexo 3: 1.x</li>
+<li>Hexo 2: 0.x</li>
+</ul>
+<h2 id="Options"><a href="#Options" class="headerlink" title="Options"></a>Options</h2><p>You can configure this plugin in <code>_config.yml</code>.</p>
+<pre><code class="yaml"><span class="attr">fbia:</span>
+<span class="attr">  limit:</span> <span class="number">20</span>
+<span class="attr">  path:</span> fbia.xml
+</code></pre>
+<ul>
+<li><strong>limit</strong> - Maximum number of posts in the feed (Use <code>0</code> or <code>false</code> to show all posts)</li>
+<li><strong>path</strong> - Feed path. (Default: fbia.xml)</li>
+</ul>
+<h2 id="Front-matter"><a href="#Front-matter" class="headerlink" title="Front-matter"></a>Front-matter</h2><p>You can use Front-matter to add more feature of Facebook Instant Articles.</p>
+<pre><code class="yaml"><span class="attr">fbia:</span>
+<span class="attr">  og:</span>
+<span class="attr">    title:</span>
+<span class="attr">    description:</span>
+<span class="attr">    image:</span>
+<span class="attr">  header:</span>
+<span class="attr">    subtitle:</span>
+<span class="attr">    kicker:</span>
+<span class="attr">    img:</span>
+<span class="attr">    caption:</span>
+<span class="attr">  footer:</span>
+<span class="attr">    credits:</span>
+<span class="attr">    related_articles:</span>
+<span class="bullet">    -</span>
+<span class="bullet">    -</span>
+<span class="bullet">    -</span>
+<span class="attr">  ad:</span> <span class="literal">false</span>
+</code></pre>
