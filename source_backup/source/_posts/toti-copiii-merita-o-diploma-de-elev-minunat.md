@@ -7,7 +7,6 @@ tags:
 description: Ce-ar fi să le dăm, anul acesta, un premiu copiilor noştri chiar la început de an şcolar.  Şi o diplomă în care să nu scrie note, medii sau calificative, ci doar atât - Diplomă de elev minunat.
 image: og-image.jpg
 bodycontent: !!pairs
-    - text: Pentru că în pauză au timp doar să iasă pe hol, să alerge o dată şi să îşi scoată manualele din ghiozdan pentru următoarea oră,
     - text: Pentru că trăiesc cu frica de examene, de teste, de criticile profesorilor şi ale noastre, de note proaste,
     - text: Pentru că îi silim, mereu, să intre în competiţie cu ceilalţi colegi în loc să fie în competiţie cu ei înşişi,
     - text: Pentru că le punem pe umeri povara nesiguranţei şi a neîmplinirilor noastre şi le cerem să fie cei mai buni,
